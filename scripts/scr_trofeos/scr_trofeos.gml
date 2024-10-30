@@ -1,0 +1,1 @@
+global.ch_speedrun = "6b1b82be-6f50-4940-b10e-0fcb319005d0";

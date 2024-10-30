@@ -1,0 +1,1 @@
+layer_sequence_create("Transicion",128, 72,FadeOn);
